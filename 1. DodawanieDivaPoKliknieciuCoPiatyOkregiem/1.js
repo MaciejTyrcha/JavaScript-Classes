@@ -1,6 +1,5 @@
 class AddingDiv{
   constructor() {
-    this.button = document.querySelector("button");
     this.number = 1;
   }
 
